@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 This is Bryan Wong. 767522747@qq.com
 
-I am interested in zero knowledge proof and specially in zk-snarks and zk-starks.
+I am interested in computer graphics and trying to do better.
